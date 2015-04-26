@@ -12,7 +12,6 @@ the texture carnage caused by vtfswapper.py
 
 import os
 import sys
-from itertools import izip
 
 import vdfutils
 
