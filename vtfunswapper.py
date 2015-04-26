@@ -5,7 +5,7 @@ By DKY
 
 Version 0.0.0
 
-Given a VDF-formatted file mapping names to swapped names, his program undoes 
+Given a VDF-formatted file mapping names to swapped names, this program undoes 
 the texture carnage caused by vtfswapper.py
 
 """
